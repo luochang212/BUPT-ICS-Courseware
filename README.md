@@ -49,6 +49,5 @@
 |Grade_2|113 MB|
 |Grade_3|452 MB|
 |Grade_4|483 MB|
-  
-  
-:warning:  版权归老师所有，侵删。
+
+:warning:  注：版权归老师所有，侵删。
