@@ -39,8 +39,6 @@
 ## 下载
 
 * 保存目录下打开DOS
-* 依次输入`md BUPT-ICS-Courseware`
-* `cd BUPT-ICS-Courseware`
 * `git clone https://github.com/luochang212/BUPT-ICS-Courseware.git`
 
 ## 文件大小
