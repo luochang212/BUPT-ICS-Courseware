@@ -45,10 +45,10 @@
 
 |  文件夹名  |   占用空间    |
 |------------|------------|
-|Grade_1|97.8 MB|
-|Grade_2|113 MB|
-|Grade_3|452 MB|
-|Grade_4|483 MB|
+|[Grade_1](https://github.com/luochang212/BUPT-ICS-Courseware/tree/master/Grade_1)|97.8 MB|
+|[Grade_2](https://github.com/luochang212/BUPT-ICS-Courseware/tree/master/Grade_2)|113 MB|
+|[Grade_3](https://github.com/luochang212/BUPT-ICS-Courseware/tree/master/Grade_3)|452 MB|
+|[Grade_4](https://github.com/luochang212/BUPT-ICS-Courseware/tree/master/Grade_4)|483 MB|
 
 ## 声明
 
