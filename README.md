@@ -38,8 +38,8 @@
 
 ## 下载
 
-* 保存目录下打开DOS
-* `git clone https://github.com/luochang212/BUPT-ICS-Courseware.git`
+* 保存目录下打开命令行
+* 输入`git clone https://github.com/luochang212/BUPT-ICS-Courseware.git`
 
 ## 文件大小
 
